@@ -3,12 +3,12 @@
 A Streamlit-based PDF analysis application that uses Google's Gemini models for document processing and intelligent question answering with conversation memory.
 
 ## Features
-**Document Processing**: Upload and process multiple PDF documents
-**Semantic Search**: Advanced retrieval using ensemble methods
-**Interactive Chat**: Natural language Q&A with document context
-**Conversation Memory**: Persistent chat history with context awareness
-**Citation System**: Referenced responses with source excerpts
-**Session Management**: Reset functionality and persistent storage
+- **Document Processing**: Upload and process multiple PDF documents
+- **Semantic Search**: Advanced retrieval using ensemble methods
+- **Interactive Chat**: Natural language Q&A with document context
+- **Conversation Memory**: Persistent chat history with context awareness
+- **Citation System**: Referenced responses with source excerpts
+- **Session Management**: Reset functionality and persistent storage
 
 ## Setup Steps
 
@@ -22,7 +22,7 @@ A Streamlit-based PDF analysis application that uses Google's Gemini models for 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ProjectResume
+   cd MPG
    ```
 
 2. **Install dependencies**
@@ -30,16 +30,7 @@ A Streamlit-based PDF analysis application that uses Google's Gemini models for 
    pip install -r requirements.txt
    ```
 
-3. **Install OCR dependencies (Optional)**
-   
-   For enhanced image processing capabilities, install OCR dependencies:
-   ```bash
-   python install_ocr.py
-   ```
-   
-   **Note**: OCR functionality is optional. The application will work without it, but won't be able to extract text from images in PDFs.
-
-4. **Environment Configuration**
+3. **Environment Configuration**
    
    Create a `.env` file in the project root:
    ```env
@@ -48,12 +39,12 @@ A Streamlit-based PDF analysis application that uses Google's Gemini models for 
    
    **Note**: Obtain your API key from [Google AI Studio](https://aistudio.google.com/apikey)
 
-5. **Run the application**
+4. **Run the application**
    ```bash
    streamlit run main.py
    ```
 
-6. **Access the application**
+5. **Access the application**
    - Open your browser to `http://localhost:8501`
    - Upload PDF documents using the file uploader
    - Click "Start" to process documents and create the vector store
@@ -89,8 +80,7 @@ A Streamlit-based PDF analysis application that uses Google's Gemini models for 
 
 #### Vector Database
 - **Database**: ChromaDB
-- **Collection**: "ChromaDB"
-- **Storage**: In-memory with persistence
+- **Storage**: Persistent storage with SQLite backend
 - **Indexing**: Automatic vector indexing
 
 ### Retrieval System
@@ -149,9 +139,7 @@ The application uses an **Ensemble Retriever** combining three strategies ensure
 - **LLM Framework**: LangChain (orchestration)
 - **Models**: Google Generative AI (Gemini)
 - **Vector Database**: ChromaDB
-- **Document Processing**: PyPDF, pdfplumber (for tables and images)
-- **Image Processing**: Pillow, pytesseract (optional OCR)
-- **Data Processing**: pandas, tabulate
+- **Document Processing**: PyPDF
 - **Environment Management**: python-dotenv
 - **Memory**: LangChain ConversationBufferMemory
 
@@ -176,8 +164,6 @@ The application uses an **Ensemble Retriever** combining three strategies ensure
 - **Language Support**: Optimized for English text
 - **File Size**: Large documents may take longer to process
 - **Format Support**: Currently only supports PDF format
-- **Table Extraction**: Complex table layouts may not be perfectly preserved
-- **Image OCR**: Requires Tesseract installation; quality depends on image resolution and text clarity
 
 ### Retrieval Limitations
 - **Chunk Size**: Fixed 1500-character chunks may split important context
