@@ -47,3 +47,417 @@ References:
 2. Name all the cities mentioned in this pdf.
 3. What are all this skills this person has?
 
+
+==================================================
+Session: 2025-08-31 14:02:45
+==================================================
+[2025-08-31 14:02:45] User: What is Shubham's highest educational qualification and from which institute did he obtain it?
+[2025-08-31 14:02:45] Assistant: Shubham's highest educational qualification is a Master of Technology in Computer Science [1], which he obtained from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+
+
+==================================================
+Session: 2025-08-31 14:03:04
+==================================================
+[2025-08-31 14:03:04] User: What is Shubham's highest educational qualification and from which institute did he obtain it?
+[2025-08-31 14:03:04] Assistant: Shubham's highest educational qualification is a Master of Technology in Computer Science [1], which he obtained from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:03:04] User: List the programming languages and tools Shubham is proficient in.
+[2025-08-31 14:03:04] Assistant: Shubham is proficient in the following programming languages and tools: Python, SQL, scikit-learn, Keras, TensorFlow, Numpy, Matplotlib, and Seaborn [1, 2, 3]. Additionally, he has experience with Regression, Classification, Clustering, NLP, Predictive Modeling, XgBoost, and OpenCV [1, 2, 3].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2] "Python, scikit-learn, Keras, Numpy, Regression, XgBoost."
+[3] "Tech Stack:Python, OpenCV, Matplotlib."
+
+
+==================================================
+Session: 2025-08-31 14:03:21
+==================================================
+[2025-08-31 14:03:21] User: What is Shubham's highest educational qualification and from which institute did he obtain it?
+[2025-08-31 14:03:21] Assistant: Shubham's highest educational qualification is a Master of Technology in Computer Science [1], which he obtained from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:03:21] User: List the programming languages and tools Shubham is proficient in.
+[2025-08-31 14:03:21] Assistant: Shubham is proficient in the following programming languages and tools: Python, SQL, scikit-learn, Keras, TensorFlow, Numpy, Matplotlib, and Seaborn [1, 2, 3]. Additionally, he has experience with Regression, Classification, Clustering, NLP, Predictive Modeling, XgBoost, and OpenCV [1, 2, 3].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2] "Python, scikit-learn, Keras, Numpy, Regression, XgBoost."
+[3] "Tech Stack:Python, OpenCV, Matplotlib."
+[2025-08-31 14:03:21] User: What are Shubham's areas of interest in the field of data science?
+[2025-08-31 14:03:21] Assistant: Shubham's areas of interest in the field of data science include advanced machine learning techniques, artificial intelligence, predictive analytics, data structures, algorithms, data-driven problem solving, and computational models [1].
+
+References:
+[1] "Areas of Interest: Advanced Machine Learning Techniques, Artificial Intelligence, Predictive Analytics, Data Structures, Algorithms, Data-Driven Problem Solving, and Computational Models."
+
+
+==================================================
+Session: 2025-08-31 14:03:44
+==================================================
+[2025-08-31 14:03:44] User: What is Shubham's highest educational qualification and from which institute did he obtain it?
+[2025-08-31 14:03:44] Assistant: Shubham's highest educational qualification is a Master of Technology in Computer Science [1], which he obtained from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:03:44] User: List the programming languages and tools Shubham is proficient in.
+[2025-08-31 14:03:44] Assistant: Shubham is proficient in the following programming languages and tools: Python, SQL, scikit-learn, Keras, TensorFlow, Numpy, Matplotlib, and Seaborn [1, 2, 3]. Additionally, he has experience with Regression, Classification, Clustering, NLP, Predictive Modeling, XgBoost, and OpenCV [1, 2, 3].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2] "Python, scikit-learn, Keras, Numpy, Regression, XgBoost."
+[3] "Tech Stack:Python, OpenCV, Matplotlib."
+[2025-08-31 14:03:44] User: What are Shubham's areas of interest in the field of data science?
+[2025-08-31 14:03:44] Assistant: Shubham's areas of interest in the field of data science include advanced machine learning techniques, artificial intelligence, predictive analytics, data structures, algorithms, data-driven problem solving, and computational models [1].
+
+References:
+[1] "Areas of Interest: Advanced Machine Learning Techniques, Artificial Intelligence, Predictive Analytics, Data Structures, Algorithms, Data-Driven Problem Solving, and Computational Models."
+[2025-08-31 14:03:44] User: What achievements or certifications has Shubham earned?
+[2025-08-31 14:03:44] Assistant: Shubham has earned the University Silver Medal [1]. He also has certificates in "Programming for Everybody" and "Problem Solving and Learning Python" [1].
+
+References:
+[1] "Achievements and Certifications • University Silver Medalist • Certificates: Programming for Everybody, Problem Solving and Learning Python."
+
+
+==================================================
+Session: 2025-08-31 14:04:21
+==================================================
+[2025-08-31 14:04:21] User: What is Shubham's highest educational qualification and from which institute did he obtain it?
+[2025-08-31 14:04:21] Assistant: Shubham's highest educational qualification is a Master of Technology in Computer Science [1], which he obtained from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:04:21] User: List the programming languages and tools Shubham is proficient in.
+[2025-08-31 14:04:21] Assistant: Shubham is proficient in the following programming languages and tools: Python, SQL, scikit-learn, Keras, TensorFlow, Numpy, Matplotlib, and Seaborn [1, 2, 3]. Additionally, he has experience with Regression, Classification, Clustering, NLP, Predictive Modeling, XgBoost, and OpenCV [1, 2, 3].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2] "Python, scikit-learn, Keras, Numpy, Regression, XgBoost."
+[3] "Tech Stack:Python, OpenCV, Matplotlib."
+[2025-08-31 14:04:21] User: What are Shubham's areas of interest in the field of data science?
+[2025-08-31 14:04:21] Assistant: Shubham's areas of interest in the field of data science include advanced machine learning techniques, artificial intelligence, predictive analytics, data structures, algorithms, data-driven problem solving, and computational models [1].
+
+References:
+[1] "Areas of Interest: Advanced Machine Learning Techniques, Artificial Intelligence, Predictive Analytics, Data Structures, Algorithms, Data-Driven Problem Solving, and Computational Models."
+[2025-08-31 14:04:21] User: What achievements or certifications has Shubham earned?
+[2025-08-31 14:04:21] Assistant: Shubham has earned the University Silver Medal [1]. He also has certificates in "Programming for Everybody" and "Problem Solving and Learning Python" [1].
+
+References:
+[1] "Achievements and Certifications • University Silver Medalist • Certificates: Programming for Everybody, Problem Solving and Learning Python."
+[2025-08-31 14:04:21] User: What is the highest level of education mentioned in the document?
+[2025-08-31 14:04:21] Assistant: The highest level of education mentioned in the document is a Master of Technology in Computer Science [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022".
+
+
+==================================================
+Session: 2025-08-31 14:14:09
+==================================================
+[2025-08-31 14:14:09] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:14:09] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-08-31 14:14:36
+==================================================
+[2025-08-31 14:14:36] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:14:36] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:14:36] User: What is the highest education this person has?
+[2025-08-31 14:14:36] Assistant: The highest education that Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+
+
+==================================================
+Session: 2025-08-31 14:15:07
+==================================================
+[2025-08-31 14:15:07] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:15:07] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:15:07] User: What is the highest education this person has?
+[2025-08-31 14:15:07] Assistant: The highest education that Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:15:07] User: What are the technical skills tis person has?
+[2025-08-31 14:15:07] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+
+
+==================================================
+Session: 2025-08-31 14:15:48
+==================================================
+[2025-08-31 14:15:48] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:15:48] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:15:48] User: What is the highest education this person has?
+[2025-08-31 14:15:48] Assistant: The highest education that Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:15:48] User: What are the technical skills tis person has?
+[2025-08-31 14:15:48] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2025-08-31 14:15:48] User: Name the cities mentioned in this PDF?
+[2025-08-31 14:15:48] Assistant: The cities mentioned in this PDF are Lucknow, Srinagar Garhwal, and Bangalore [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022 \n Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019 \n Deloitte USI Bangalore, IND Consultant 2023 - Present".
+
+
+==================================================
+Session: 2025-08-31 14:16:25
+==================================================
+[2025-08-31 14:16:25] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:16:25] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:16:25] User: What is the highest education this person has?
+[2025-08-31 14:16:25] Assistant: The highest education that Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:16:25] User: What are the technical skills tis person has?
+[2025-08-31 14:16:25] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2025-08-31 14:16:25] User: Name the cities mentioned in this PDF?
+[2025-08-31 14:16:25] Assistant: The cities mentioned in this PDF are Lucknow, Srinagar Garhwal, and Bangalore [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022 \n Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019 \n Deloitte USI Bangalore, IND Consultant 2023 - Present".
+[2025-08-31 14:16:25] User: Who is the PM of India/
+[2025-08-31 14:16:25] Assistant: The provided context does not contain this information.
+
+
+==================================================
+Session: 2025-08-31 14:16:57
+==================================================
+[2025-08-31 14:16:57] User: what is the name of this person who has been mentioned in this pdf?
+[2025-08-31 14:16:57] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:16:57] User: What is the highest education this person has?
+[2025-08-31 14:16:57] Assistant: The highest education that Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 14:16:57] User: What are the technical skills tis person has?
+[2025-08-31 14:16:57] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2025-08-31 14:16:57] User: Name the cities mentioned in this PDF?
+[2025-08-31 14:16:57] Assistant: The cities mentioned in this PDF are Lucknow, Srinagar Garhwal, and Bangalore [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022 \n Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019 \n Deloitte USI Bangalore, IND Consultant 2023 - Present".
+[2025-08-31 14:16:57] User: Who is the PM of India/
+[2025-08-31 14:16:57] Assistant: The provided context does not contain this information.
+[2025-08-31 14:16:57] User: What are all questions which I have asked you till now?
+[2025-08-31 14:16:57] Assistant: I will list all the questions which you have asked me till now based on our conversation history.
+1. what is the name of this person who has been mentioned in this pdf?
+2. What is the highest education this person has?
+3. What are the technical skills tis person has?
+4. Name the cities mentioned in this PDF?
+5. Who is the PM of India/
+6. What are all questions which I have asked you till now?
+
+
+==================================================
+Session: 2025-08-31 14:27:46
+==================================================
+[2025-08-31 14:27:46] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:27:46] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-08-31 14:28:11
+==================================================
+[2025-08-31 14:28:11] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:28:11] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:28:11] User: What is the highest education he had?
+[2025-08-31 14:28:11] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+
+
+==================================================
+Session: 2025-08-31 14:28:42
+==================================================
+[2025-08-31 14:28:42] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:28:42] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:28:42] User: What is the highest education he had?
+[2025-08-31 14:28:42] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+[2025-08-31 14:28:42] User: What are the technical skills this person has?
+[2025-08-31 14:28:42] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+
+
+==================================================
+Session: 2025-08-31 14:29:14
+==================================================
+[2025-08-31 14:29:14] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:29:14] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:29:14] User: What is the highest education he had?
+[2025-08-31 14:29:14] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+[2025-08-31 14:29:14] User: What are the technical skills this person has?
+[2025-08-31 14:29:14] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:29:14] User: What are the language he has expereince?
+[2025-08-31 14:29:14] Assistant: The context mentions that Shubham has experience with Python and SQL [1].
+
+References:
+[1] Skills • Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+
+
+==================================================
+Session: 2025-08-31 14:29:41
+==================================================
+[2025-08-31 14:29:41] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:29:41] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:29:41] User: What is the highest education he had?
+[2025-08-31 14:29:41] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+[2025-08-31 14:29:41] User: What are the technical skills this person has?
+[2025-08-31 14:29:41] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:29:41] User: What are the language he has expereince?
+[2025-08-31 14:29:41] Assistant: The context mentions that Shubham has experience with Python and SQL [1].
+
+References:
+[1] Skills • Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:29:41] User: Who is the PM of India?
+[2025-08-31 14:29:41] Assistant: The provided context does not contain this information.
+
+
+==================================================
+Session: 2025-08-31 14:30:14
+==================================================
+[2025-08-31 14:30:14] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:30:14] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:30:14] User: What is the highest education he had?
+[2025-08-31 14:30:14] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+[2025-08-31 14:30:14] User: What are the technical skills this person has?
+[2025-08-31 14:30:14] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:30:14] User: What are the language he has expereince?
+[2025-08-31 14:30:14] Assistant: The context mentions that Shubham has experience with Python and SQL [1].
+
+References:
+[1] Skills • Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:30:14] User: Who is the PM of India?
+[2025-08-31 14:30:14] Assistant: The provided context does not contain this information.
+[2025-08-31 14:30:14] User: What are all cities mentioned in this pdf?
+[2025-08-31 14:30:14] Assistant: The cities mentioned in the provided context are Lucknow, Srinagar Garhwal, and Bangalore [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+Education • Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019
+Experience • Deloitte USI Bangalore, IND Consultant 2023 - Present
+
+
+==================================================
+Session: 2025-08-31 14:30:45
+==================================================
+[2025-08-31 14:30:45] User: What is the name of the person mentioned in this pdf?
+[2025-08-31 14:30:45] Assistant: The name of the person mentioned in this PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-08-31 14:30:45] User: What is the highest education he had?
+[2025-08-31 14:30:45] Assistant: The highest education Shubham had is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+[2025-08-31 14:30:45] User: What are the technical skills this person has?
+[2025-08-31 14:30:45] Assistant: Shubham's technical skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:30:45] User: What are the language he has expereince?
+[2025-08-31 14:30:45] Assistant: The context mentions that Shubham has experience with Python and SQL [1].
+
+References:
+[1] Skills • Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling.
+[2025-08-31 14:30:45] User: Who is the PM of India?
+[2025-08-31 14:30:45] Assistant: The provided context does not contain this information.
+[2025-08-31 14:30:45] User: What are all cities mentioned in this pdf?
+[2025-08-31 14:30:45] Assistant: The cities mentioned in the provided context are Lucknow, Srinagar Garhwal, and Bangalore [1].
+
+References:
+[1] Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+Education • Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019
+Experience • Deloitte USI Bangalore, IND Consultant 2023 - Present
+[2025-08-31 14:30:45] User: Tell me all the questions I have asked you till now?
+[2025-08-31 14:30:45] Assistant: The questions asked in the conversation are:
+1. What is the name of the person mentioned in this pdf?
+2. What is the highest education he had?
+3. What are the technical skills this person has?
+4. What are the language he has expereince?
+5. Who is the PM of India?
+6. What are all cities mentioned in this pdf?
+7. Tell me all the questions I have asked you till now?
+
