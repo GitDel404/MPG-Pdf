@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+pydantic
+pypdf
+streamlit
+watchdog
+chromadb
+dotenv
+langchain-experimental

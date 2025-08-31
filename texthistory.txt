@@ -1,0 +1,49 @@
+
+==================================================
+Session: 2025-08-31 12:45:21
+==================================================
+[2025-08-31 12:45:21] User: what is the highest education this person has?
+[2025-08-31 12:45:21] Assistant: The highest education this person has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 12:45:21] User: name all the cities mentioned in this pdf
+[2025-08-31 12:45:21] Assistant: The cities mentioned in this PDF are Lucknow [1], Srinagar Garhwal [2], and Bangalore [3].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2] "Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019"
+[3] "Deloitte USI Bangalore, IND Consultant 2023 - Present"
+[2025-08-31 12:45:21] User: what are all this skills this person has?
+[2025-08-31 12:45:21] Assistant: This person's skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+
+
+==================================================
+Session: 2025-08-31 12:46:09
+==================================================
+[2025-08-31 12:46:09] User: what is the highest education this person has?
+[2025-08-31 12:46:09] Assistant: The highest education this person has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-08-31 12:46:09] User: name all the cities mentioned in this pdf
+[2025-08-31 12:46:09] Assistant: The cities mentioned in this PDF are Lucknow [1], Srinagar Garhwal [2], and Bangalore [3].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2] "Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019"
+[3] "Deloitte USI Bangalore, IND Consultant 2023 - Present"
+[2025-08-31 12:46:09] User: what are all this skills this person has?
+[2025-08-31 12:46:09] Assistant: This person's skills include Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, and Predictive Modeling [1].
+
+References:
+[1] "Technical Skills: Python, Machine Learning (scikit-learn, Keras, TensorFlow), SQL, Data Preprocessing, Feature Engineering, Model Tuning, Regression, Classification, Clustering, Data Visualization (Matplotlib, Seaborn), NLP, Predictive Modeling."
+[2025-08-31 12:46:09] User: what are all the questions I have you till now?
+[2025-08-31 12:46:09] Assistant: The questions asked so far are:
+1. What is the highest education this person has?
+2. Name all the cities mentioned in this pdf.
+3. What are all this skills this person has?
+
