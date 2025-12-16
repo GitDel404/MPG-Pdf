@@ -461,3 +461,168 @@ Experience • Deloitte USI Bangalore, IND Consultant 2023 - Present
 6. What are all cities mentioned in this pdf?
 7. Tell me all the questions I have asked you till now?
 
+
+==================================================
+Session: 2025-09-01 13:43:18
+==================================================
+[2025-09-01 13:43:18] User: what is the name of this person?
+[2025-09-01 13:43:18] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-09-01 13:45:28
+==================================================
+[2025-09-01 13:45:28] User: What is the name of this person?
+[2025-09-01 13:45:28] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-09-01 13:45:46
+==================================================
+[2025-09-01 13:45:46] User: What is the name of this person?
+[2025-09-01 13:45:46] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 13:45:46] User: What is the highest qualification he had?
+[2025-09-01 13:45:46] Assistant: The highest qualification Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] “Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022”
+
+
+==================================================
+Session: 2025-09-01 13:54:31
+==================================================
+[2025-09-01 13:54:31] User: What is the name of this person?
+[2025-09-01 13:54:31] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 13:54:31] User: What is the highest qualification he had?
+[2025-09-01 13:54:31] Assistant: The highest qualification Shubham has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] “Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022”
+[2025-09-01 13:54:31] User: who is he?
+[2025-09-01 13:54:31] Assistant: Shubham has experience in building and optimizing machine learning and neural network models and deriving actionable insights through data analysis [1]. He is passionate about applying his skills to impactful projects and actively participates in Kaggle competitions [1]. Currently, he works as a Consultant at Deloitte USI [1].
+
+References:
+[1] "Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges. Passionate about applying my skills to impactful projects, I actively participate in Kaggle competitions to refine my expertise and tackle real-world problems. Education • Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022 • Hemvati Nandan Bahuguna Garhwal University (A Central University) Srinagar Garhwal, IND Bachelor of Technology in Computer Science & Engineering; CGPA: 6.92/10 2015 - 2019 Experience • Deloitte USI Bangalore, IND Consultant 2023 - Present".
+
+
+==================================================
+Session: 2025-09-01 14:00:00
+==================================================
+[2025-09-01 14:00:00] User: What is the name of this person?
+[2025-09-01 14:00:00] Assistant: Based on the provided context, the name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-09-01 14:01:05
+==================================================
+[2025-09-01 14:01:05] User: what is the name of this person?
+[2025-09-01 14:01:05] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-09-01 14:01:24
+==================================================
+[2025-09-01 14:01:24] User: what is the name of this person?
+[2025-09-01 14:01:24] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 14:01:24] User: what is name of of his wife?
+[2025-09-01 14:01:24] Assistant: The provided context does not contain this information.
+
+
+==================================================
+Session: 2025-09-01 14:01:38
+==================================================
+[2025-09-01 14:01:38] User: what is the name of this person?
+[2025-09-01 14:01:38] Assistant: The name of this person is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 14:01:38] User: what is name of of his wife?
+[2025-09-01 14:01:38] Assistant: The provided context does not contain this information.
+[2025-09-01 14:01:38] User: what is his highest education?
+[2025-09-01 14:01:38] Assistant: Shubham's highest education is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022
+
+
+==================================================
+Session: 2025-09-01 15:38:49
+==================================================
+[2025-09-01 15:38:49] User: What is the name of the person mnetioned in this pdf?
+[2025-09-01 15:38:49] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+
+
+==================================================
+Session: 2025-09-01 15:39:58
+==================================================
+[2025-09-01 15:39:58] User: What is the name of the person mnetioned in this pdf?
+[2025-09-01 15:39:58] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 15:39:58] User: What is the highest education this person has?
+[2025-09-01 15:39:58] Assistant: The highest education this person has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+
+
+==================================================
+Session: 2025-09-01 15:40:38
+==================================================
+[2025-09-01 15:40:38] User: What is the name of the person mnetioned in this pdf?
+[2025-09-01 15:40:38] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 15:40:38] User: What is the highest education this person has?
+[2025-09-01 15:40:38] Assistant: The highest education this person has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-09-01 15:40:38] User: What is the best skill of Steve Jobs?
+[2025-09-01 15:40:38] Assistant: The provided context does not contain this information.
+
+
+==================================================
+Session: 2025-09-01 15:42:27
+==================================================
+[2025-09-01 15:42:27] User: What is the name of the person mnetioned in this pdf?
+[2025-09-01 15:42:27] Assistant: The name of the person mentioned in the PDF is Shubham [1].
+
+References:
+[1] Shubham Email: shulnudel@gmail.com LinkedIn: shubhamdhiman89233 Mobile : +91-8923366655 Gender: Male Summary • I have experience in building and optimizing machine learning and neural network models, deriving actionable insights through data analysis, and solving data challenges.
+[2025-09-01 15:42:27] User: What is the highest education this person has?
+[2025-09-01 15:42:27] Assistant: The highest education this person has is a Master of Technology in Computer Science from the Indian Institute of Information Technology, Lucknow [1].
+
+References:
+[1] "Indian Institute of Information Technology, Lucknow Lucknow, IND Master of Technology in Computer Science; SGPI: 9.09/10 2020 - 2022"
+[2025-09-01 15:42:27] User: What is the best skill of Steve Jobs?
+[2025-09-01 15:42:27] Assistant: The provided context does not contain this information.
+[2025-09-01 15:42:27] User: Is shubham is good at cricket?
+[2025-09-01 15:42:27] Assistant: The provided context does not contain this information.
+
